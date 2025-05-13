@@ -17,6 +17,11 @@ function Projects()
             imgUrl : projImg1 ,
         },
         {
+            title : "Personal Portfolio",
+            description : "Using React and node",
+            imgUrl : projImg1 ,
+        },
+        {
             title : "AI-Image Converter",
             description : "Using API in JAVASCRIPT",
             imgUrl : projImg2 ,
@@ -30,6 +35,21 @@ function Projects()
             title : "Tic-Tac_Toe Game",
             description : "Using HTML,CSS and JS",
             imgUrl : projImg3 ,
+        },
+        {
+            title : "Temperature Converter",
+            description : "Using HTML,CSS and JS",
+            imgUrl : projImg2 ,
+        },
+        {
+            title : "Calculator",
+            description : "Using HTML,CSS and JS",
+            imgUrl : projImg1 ,
+        },
+        {
+            title : "Password Generator",
+            description : "Using HTML,CSS and JS",
+            imgUrl : projImg1 ,
         },
     ];
   return (
@@ -70,8 +90,8 @@ function Projects()
                         }
                       </Row>
                    </Tab.Pane>
-                   <Tab.Pane eventKey="second">Lorem Ipsum</Tab.Pane>
-                   <Tab.Pane eventKey="third">Lorem Ipsum Ipsum</Tab.Pane>
+                   <Tab.Pane eventKey="second">soon..</Tab.Pane>
+                   <Tab.Pane eventKey="third">soon...</Tab.Pane>
                  </Tab.Content>
                  </Tab.Container>
             </Col>
